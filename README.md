@@ -1,3 +1,6 @@
-# My Awesome Book
+# TMAC Procedures Manual
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This manual serves as a living and adaptable guide to TMAC's operating processes. Each protocol is intended to guide the staff and volunteers responsible for delivering a program toward success. 
+
+
+
