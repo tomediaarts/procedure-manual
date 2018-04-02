@@ -9,8 +9,11 @@
   * [Governance](cmte-governance.md)
   * [HR](cmte-hr.md)
   * [Outreach & Advocacy](cmte-outreach.md)
-* Policies
-  * [Code of Conduct](policies/coc.md)
+* [Policies](policies/README.md)
+  * [Code of Conduct](coc.md)
+  * [Accessibility](accessibility.md)
+  * [Diversity](diversity.md)
+  * [Territorial Acknowledgment](territorial-acknowledgment.md)  
 * [Protocols](protocols-overview.md)
   * [Programming & Events](pr-programming.md)
   * [Partnerships](pr-partnerships.md)
