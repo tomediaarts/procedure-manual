@@ -21,6 +21,7 @@ _Please note that food **must** be served if alcohol is made available._
 ### Booking and Prep
 
 1. Have your JPC committee member book space directly through the Google Calendar for the space\(s\) you need. \(As long as there are no conflicts, no approval is required.\)
+   * There is a resource calendar for each bookable space resource in the TMAC organization.
    * Include all set-up and tear down times in your booking.
 2. Identify the primary point of contact and names of volunteers in the calendar event
    * Please note that is the Member's responsibility to identify and manage volunteers for your event
@@ -58,7 +59,7 @@ _Please note that food **must** be served if alcohol is made available._
 
 ## Non-Partner Events
 
-1. Potential user submits booking request form
+1. Potential user submits [booking request](https://www.tomediaarts.org/booking-request) form on the TMAC web site
 2. JPC reviews and assesses availability and fit
 3. Letter of agreement is signed by both parties
    * Resources are reserved in booking tool
