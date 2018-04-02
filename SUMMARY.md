@@ -1,19 +1,19 @@
 # Summary
 
-### [Committees](committees-overview.md)
+* [Committees](committees-overview.md)
+  * [Joint Programming](cmte-jpc.md)
+  * [Facilities](cmte-facilities.md)
+  * [Finance](cmte-finance.md)
+  * [Advancement & Partnerships](cmte-advancement.md)
+  * [Fundraising](cmte-fundraising.md)
+  * [Governance](cmte-governance.md)
+  * [HR](cmte-hr.md)
+  * [Outreach & Advocacy](cmte-outreach.md)
+* Policies
+  * [Code of Conduct](policies/coc.md)
+* [Protocols](protocols-overview.md)
+  * [Programming & Events](pr-programming.md)
+  * [Partnerships](pr-partnerships.md)
+  * [Membership](pr-membership.md)
+  * [Programming Communications](pr-programming-comms.md)
 
-*  [Joint Programming](cmte-jpc.md)
-*  [Facilities](cmte-facilities.md)
-*  [Finance](cmte-finance.md)
-*  [Advancement & Partnerships](cmte-advancement.md)
-*  [Fundraising](cmte-fundraising.md)
-*  [Governance](cmte-governance.md)
-*  [HR](cmte-hr.md)
-*  [Outreach & Advocacy](cmte-outreach.md)
-
-### [Protocols](protocols-overview.md)
-
-*  [Programming & Events](pr-programming.md)
-*  [Partnerships](pr-partnerships.md)
-*  [Membership](pr-membership.md)
-*  [Programming Communications](pr-programming-comms.md)

@@ -16,8 +16,6 @@ This protocol applies only to events held in TMAC Spaces:
 
 _Please note that food **must** be served if alcohol is made available._
 
-
-
 ## Member Events
 
 ### Booking and Prep
