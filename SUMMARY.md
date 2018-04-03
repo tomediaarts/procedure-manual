@@ -12,5 +12,5 @@
   * [Territorial Acknowledgment](policies/territorial-acknowledgment.md)
 * [Protocols](procedures/protocols-overview.md)
   * [Programming & Events](procedures/pr-programming.md)
-  * [Daily Operations](procedures/pr-daily-ops.md)
+  * [Daily Operations](procedures/pr-daily-operations.md)
 
