@@ -61,7 +61,7 @@ _Please note that food **must** be served if alcohol is made available._
 
 1. Potential user submits [booking request](https://www.tomediaarts.org/booking-request) form on the TMAC web site
 2. JPC reviews and assesses availability and fit
-3. Letter of agreement is signed by both parties
+3. [Letter of agreement](https://www.tomediaarts.org/docs/TMAC-Space-Rental-Agreement-2018.pdf) is signed by both parties
    * Resources are reserved in booking tool
 4. Deposit is paid \(40% if within 60 days, in full if within 30 days\)
 5. Renter volunteers arrive 2 hours prior to event or installation for run-through and procedures
