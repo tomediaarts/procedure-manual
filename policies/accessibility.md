@@ -22,9 +22,11 @@ All events and offices are located on the second floor, accessible via an elevat
 
 ## Washrooms
 
-The ground floor washroom and toilet are wheelchair accessible. The sink is not lowered, however.
+The ground floor washroom and toilet are wheelchair accessible.
 
 There is a private accessible washroom on the second floor next to the all-gender washroom, and two accessible stalls in the shared washroom.
+
+There are diaper-changing stations in all washrooms.
 
 ## Interpretive Assistance
 
