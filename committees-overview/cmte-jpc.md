@@ -1,4 +1,4 @@
-# Joint Programming Committee
+# Joint Programming
 
 The Joint Programming Committee \(JPC\) is a volunteer committee made up of up to two representatives from each Member organization and up to two local community members.
 
@@ -58,18 +58,13 @@ Incoming programming proposals are received through a **public form on our web s
 The JPC is responsible for:
 
 * Planning, coordinating and executing all regular and major programming, space rentals and events:
-
   * Events presented by Members that make use of TMAC galleries and public event spaces
     * Receives and approves requests by Members to use TMAC spaces on an ad hoc basis
   * Events presented solely by TMAC and/or an external nonprofit, community or educational organization in partnership with TMAC
     * Plans 6 to 12 months ahead and determines topics of interest to members and relevant to yearly mandate, if applicable.
-  * **Interim: **Events presented by external groups – nonprofit, education, or commercial – but not in partnership with TMAC or a Member \(in the long term, external space rentals will be managed by an event coordinator staff person\)
-
+  * **Interim:** Events presented by external groups – nonprofit, education, or commercial – but not in partnership with TMAC or a Member \(in the long term, external space rentals will be managed by an event coordinator staff person\)
     * Receives and approves requests by external groups, manages resources and support volunteers, and handles billing
-
 * Managing the volunteer pool:
   * Recruiting and training new volunteers, conducting background checks
   * Communicating with volunteers via Basecamp and Slack, assigning roles for every event, and training in facilities and events logistics
-
-
 

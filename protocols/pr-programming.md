@@ -1,4 +1,4 @@
-# Programming and Events Protocol
+# Programming & Events
 
 This protocol applies only to events held in TMAC Spaces:
 
@@ -65,6 +65,4 @@ _Please note that food **must** be served if alcohol is made available._
    * Resources are reserved in booking tool
 4. Deposit is paid \(40% if within 60 days, in full if within 30 days\)
 5. Renter volunteers arrive 2 hours prior to event or installation for run-through and procedures
-
-
 

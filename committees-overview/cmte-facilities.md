@@ -1,4 +1,4 @@
-# Facilities Committee
+# Facilities
 
 The Facilities Committee is a volunteer committee made up of up to two representatives from each Member organization and up to two TMAC volunteers.
 
@@ -7,6 +7,7 @@ The Facilities Committee is a volunteer committee made up of up to two represent
 Chair: TBD
 
 Members:
+
 * Robby Duguay, AV Manager, Gamma Space
 * Greg Woodbury, Operations Manager, CSV
 * Sophia Park, board member, DMG
@@ -28,7 +29,7 @@ Members:
 
 ## Chair
 
-The chair of the committee will be the Facilities Manager, or any member appointed by the Board. 
+The chair of the committee will be the Facilities Manager, or any member appointed by the Board.
 
 The chair is responsible for:
 
@@ -51,7 +52,7 @@ Major new projects should be brought to the board for approval at a meeting of t
 
 To ensure transparency for current and future committee members, committee business must be communicated and documented \(in the case of offline conversations/decisions\) through a **dedicated Basecamp project** for the committee.
 
-Additional Basecamp projects for committee projects (e.g., capital projects) may be created at the chair’s discretion. Non-committee members, outside coordinators, and contractors can be looped in to a subset of content.
+Additional Basecamp projects for committee projects \(e.g., capital projects\) may be created at the chair’s discretion. Non-committee members, outside coordinators, and contractors can be looped in to a subset of content.
 
 The committee’s **dedicated Slack channel** should be used instead of email or Basecamp for roughing out ideas and general chatter about projects and scheduling.
 
@@ -69,3 +70,4 @@ Incident reports, maintenance requests should be routed through the facilities@t
 8. To work with all external licensing and enforcement agencies to ensure all facilities conditions are met.
 9. To liaise with external contractors where necessary to ensure proper maintenance and capital development of the premises.
 10. To develop the skills of members in all aspects of facilities work and to encourage the involvement of new members.
+
