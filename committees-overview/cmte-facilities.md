@@ -10,7 +10,6 @@ Members:
 
 * Robby Duguay, AV Manager, Gamma Space
 * Greg Woodbury, Operations Manager, CSV
-* Sophia Park, board member, DMG
 * Genne Speers, deputy director, CFMDC
 * Henry Faber, president, TMAC; director, Gamma Space
 
