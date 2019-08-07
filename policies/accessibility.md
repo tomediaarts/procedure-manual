@@ -6,16 +6,11 @@ If you require interpretation, supervised childcare, or have any other access ne
 
 ## Wheel-Trans/dropoffs
 
-Please share this information with your driver if they have not dropped off at our facility before:
+As of June 2019, the City of Toronto has _removed_ the curb cut that previously provided access to TMAC. We are in the process of attempting to have the curb cut reinstalled. In the meantime, the nearest curb access point is inside the Green P parking lot south of the park.
 
-* Lisgar is a one-way street running north.
-* From Sudbury Street, drive to the front of the condo building to the west (your left).
-* The front of the building faces onto a park and is parallel to Queen Street West.
-* A TMAC / 32 Lisgar sign should be visible to the driver if they have pulled up to the right spot.
-* There is a curb cut in the sidewalk, and a ramp just north of the stairs.
-* Our entrance is the second door from Lisgar.
+Once the curb cut is reinstalled, we will provide updated Wheel-Trans information here.
 
-[View photos of ramp access to our main entrance.](https://shwca.se/tmac-accessibility)
+~[View photos of ramp access to our main entrance.](https://shwca.se/tmac-accessibility)~
 
 ## Building Access via Lisgar Park
 
@@ -25,9 +20,9 @@ The park is mostly flat, obstacle-free concrete. However, snow/ice accumulation 
 
 ## Entrance
 
-The main entrance to the building features three sets of doors. The far left doors will be unlocked during any scheduled event. The two sets on the right are not currently usable.
+The main entrance to the building features three sets of doors. The far left doors will be unlocked during any scheduled event.
 
-**All of the doors open by pushing inward**, not pulling. The outer door is not powered but the inner one is. If you require assistance with the door, please let us know ahead of time and we will meet you.
+**All of the doors open by pushing inward**, not pulling. The doors are not powered. During events they are often propped. *If you require assistance with the door, please let us know ahead of time and we will meet you.*
 
 If you encounter any issues once you've arrived, please call or text \(647\) 689-6005 and someone will be happy to meet you.
 
